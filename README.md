@@ -22,4 +22,4 @@ The dashboard analyzes sales, profit and regional performance for a multi-catego
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](sales-performance-excel-dashboard.png)
+![Dashboard Preview]()
